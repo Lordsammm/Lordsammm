@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lordsammm
+- 👋 Hi, I’m Lordsam
 - 👀 I’m interested in Full Stack Security 
 - 🌱 I’m currently learning AI/ML Security
 - 💞️ I’m looking to collaborate on AppSec, ML-Security
