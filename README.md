@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lordsam
-- 👀 I’m interested in Full Stack Security 
-- 🌱 I’m currently learning AI/ML Security
+- 👀 I’m into Full Stack Security 
+- 🌱 I’m currently learning AI/ML Security Modeling
 - 💞️ I’m looking to collaborate on AppSec, ML-Security
 - 📫 How to reach me: samuelafolabi48@gmail.com
 - 😄 Pronouns: HE/HIM
